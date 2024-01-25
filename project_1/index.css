@@ -1,0 +1,10 @@
+body{ margin: 0; padding: 0;}
+h1{ width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    /* padding-top: 36%; */
+    justify-content: center;
+    align-items: center;}
